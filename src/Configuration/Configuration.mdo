@@ -2839,6 +2839,7 @@
   <reports>Report.СостояниеУчетнойЗаписиDSS</reports>
   <reports>Report.СтатистикаВыполненияОбработчиковОбновления</reports>
   <reports>Report.УниверсальныйОтчет</reports>
+  <reports>Report.ОтчетПоКонтрагентам</reports>
   <dataProcessors>DataProcessor._ДемоВводНаОснованииОприходованийТоваров</dataProcessors>
   <dataProcessors>DataProcessor._ДемоВыборОбъектовМетаданных</dataProcessors>
   <dataProcessors>DataProcessor._ДемоВыводСообщенийПользователю</dataProcessors>
