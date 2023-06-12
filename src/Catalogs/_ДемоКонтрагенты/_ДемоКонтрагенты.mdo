@@ -399,6 +399,24 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="52ec0ad8-8bbd-4069-bd07-cdfcd5886228">
+    <name>Dev_master_Реквизит</name>
+    <synonym>
+      <key>ru</key>
+      <value>Dev master реквизит</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>100</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="2eba97cd-bfe0-4c9d-bab0-f8123a6d00d8">
     <producedTypes>
       <objectType typeId="bbe77a79-dedc-438b-8cef-3caf1198fc44" valueTypeId="e4c44583-99eb-4c76-9146-062f8fa68951"/>
