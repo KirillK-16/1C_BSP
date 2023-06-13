@@ -417,6 +417,24 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="cf22c26b-8a45-4b5e-b82f-9440dc85387c">
+    <name>НовыйРеквизит</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новый реквизит</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="2eba97cd-bfe0-4c9d-bab0-f8123a6d00d8">
     <producedTypes>
       <objectType typeId="bbe77a79-dedc-438b-8cef-3caf1198fc44" valueTypeId="e4c44583-99eb-4c76-9146-062f8fa68951"/>
